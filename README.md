@@ -72,3 +72,6 @@ The code is built using the **Apache Mahout** library, which is a powerful, scal
 
 ### **Conclusion**
 This **Recommendation System** is a basic implementation of a **user-based collaborative filtering** model using the **Apache Mahout** library. It demonstrates how to use similarity measures to recommend items based on the preferences of similar users. With minor modifications, this code can be extended to handle more sophisticated recommendation algorithms, larger datasets, and enhanced prediction accuracy.
+
+# Output:
+![image](https://github.com/user-attachments/assets/e4581ab9-97f5-461d-9ef3-cf0490b5adc2)
