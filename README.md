@@ -10,7 +10,7 @@
 **Batch Duration**: 25th December 2024 to 25th January 2025  
 
 --
-### **Overview of the Recommendation System Code**
+### **Overview of the Recommendation System Code** 
 
 The **Recommendation System** is a Java application that leverages the **Apache Mahout** library to build a **user-based collaborative filtering** recommendation model. The system analyzes the behavior of users and generates personalized recommendations based on their preferences and the preferences of similar users. By using the **Pearson Correlation Similarity** measure, the system identifies similar users to make item suggestions. This type of recommendation system is typically used in platforms like e-commerce sites, music streaming services, and content-based applications.
 
